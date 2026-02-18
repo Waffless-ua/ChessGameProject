@@ -1,13 +1,13 @@
 ## Project plan
 ### MVP goals
-- [] Base movements of pieces and board
-- [] Checkmate and Stalemate
-- [] Pause & Restart
+- [ ] Base movements of pieces and board
+- [ ] Checkmate and Stalemate
+- [ ] Pause & Restart
 ### Base Game
-- [] Pawn Promotion
-- [] Castiling
-- [] En Passant
-- [] Other possible outcomes
+- [ ] Pawn Promotion
+- [ ] Castiling
+- [ ] En Passant
+- [ ] Other possible outcomes
 ### Possible improvments
 - [ ] Start Menu
 - [ ] Settings Menu
